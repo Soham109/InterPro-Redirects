@@ -1,18 +1,9 @@
-# ============================================================
-# 404 Traffic Intelligence Dashboard
-# Author: Soham Aggarwal
-# Purpose: Make 404 traffic understandable & actionable
-# ============================================================
 
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 import re
 from urllib.parse import urlparse
-
-# ============================================================
-# PAGE CONFIG
-# ============================================================
 
 st.set_page_config(
     page_title="404 Traffic Intelligence",

@@ -4,7 +4,6 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from webdriver_manager.chrome import ChromeDriverManager
 
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -51,15 +50,14 @@ def scrape_404s():
     options = Options()
     options.add_experimental_option("detach", True)
 
-    driver = webdriver.Chrome(
-        service=Service(ChromeDriverManager().install()),
-        options=options
-    )
+    # ✅ FIXED: Let Selenium manage ChromeDriver automatically (no webdriver-manager)
+    service = Service()
+    driver = webdriver.Chrome(service=service, options=options)
 
     wait = WebDriverWait(driver, 15)
     driver.get(START_URL)
 
-    print("Log in to WordPress admin, then press ENTER here.")
+    print("👉 Log in to WordPress admin in the opened browser, then press ENTER here.")
     input()
 
     all_rows = []
@@ -89,12 +87,13 @@ def scrape_404s():
 
         try:
             next_btn = driver.find_element(By.CLASS_NAME, "next-page")
+
             if "disabled" in next_btn.get_attribute("class"):
                 print("Reached last page.")
                 break
 
             next_btn.click()
-            time.sleep(0.6)  # ⏱️ faster than before
+            time.sleep(0.6)  # small delay to avoid rate limits
             page += 1
 
         except Exception:
