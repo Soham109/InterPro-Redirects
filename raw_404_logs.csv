@@ -1,4 +1,20 @@
 date,source_url,user_agent,ip
+"February 3, 2026 10:01 am",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1,97.83.224.136
+"February 3, 2026 10:01 am",/apple-touch-icon.png,com.apple.WebKit.Networking/21622.1.22.11.15 Network/5569.1.3 macOS/26.0.1,97.83.224.136
+"February 3, 2026 9:56 am",/courses/achieving-operational-excellence/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",14.177.86.134
+"February 3, 2026 9:56 am",/courses/achieving-operational-excellence/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",14.191.90.70
+"February 3, 2026 9:54 am",/apple-touch-icon.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:54 am",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/21623.1.14.11.9 Network/5569.60.39.0.3 macOS/26.2,47.203.85.37
+"February 3, 2026 9:53 am",/courses/courses/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672 Safari/537.36",14.175.123.67
+"February 3, 2026 9:53 am",/topic/vehicles-and-powertrains/request-info-edcc/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",103.145.255.185
+"February 3, 2026 9:52 am",/online-graduate-programs/masters-degrees/polymer-engineering/how-to-apply-pe/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36",113.177.166.180
+"February 3, 2026 9:50 am",/instructor/paschke-ned/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",113.184.158.57
 "February 3, 2026 9:48 am",/courses/powts-conference/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36",113.165.123.3
 "February 3, 2026 9:47 am",/courses/fmea-and-rca-for-maintenance-and-reliability/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",113.175.173.103
 "February 3, 2026 9:46 am",/category/news/page/8/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36",14.237.130.30
@@ -8,6 +24,7 @@ date,source_url,user_agent,ip
 "February 3, 2026 9:43 am",/online-graduate-programs/masters-degrees/engineering-management/2020mem-summer-residency/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3602.191 Safari/537.36",14.233.168.191
 "February 3, 2026 9:42 am",/courses/chemical-processing-essentials-for-the-non-chemical-engineer/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36",123.24.72.103
 "February 3, 2026 9:38 am",/program-specialty/leadership/page/5/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",14.248.20.161
+,,,
 "February 3, 2026 9:38 am",/engaged-learning-online-mean-online-graduate-engineering-student/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672 Safari/537.36",113.180.189.53
 "February 3, 2026 9:38 am",/xmrlpc.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
 "February 3, 2026 9:38 am",/www.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
@@ -24,7 +41,6 @@ date,source_url,user_agent,ip
 "February 3, 2026 9:37 am",/wp-admin/class-db.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
 "February 3, 2026 9:36 am",/wordpress/wp-admin/maint/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
 "February 3, 2026 9:36 am",/akismet.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
-,,,
 "February 3, 2026 9:36 am",/themes.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
 "February 3, 2026 9:36 am",/hello.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
 "February 3, 2026 9:36 am",/t.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.63.209.182
@@ -509,31 +525,7 @@ date,source_url,user_agent,ip
 "February 2, 2026 9:21 pm",/?page_id=51,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.7559.109 Mobile Safari/537.36 (compatible; GoogleOther)",66.249.77.38
 "February 2, 2026 9:20 pm",/courses/railroad-track-construction-project-management/,"Mozilla/5.0 (X11; Ubuntu; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2919.83 Safari/537.36",14.179.255.157
 "February 2, 2026 9:15 pm",/courses/pilot-plant-and-laboratory-safety-2-real-hazards-proven-solutions/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",14.167.244.94
-"February 2, 2026 9:14 pm",/paschke-asset-management-needed-to-strengthen-u-s-wastewater-infrastructure/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",113.182.142.95
-"February 2, 2026 9:13 pm",/paschke-asset-management-needed-to-strengthen-u-s-wastewater-infrastructure/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.75 Safari/537.36",14.175.64.70
-"February 2, 2026 9:04 pm",/courses/slope-stability-excavations-and-retention/,"Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3837.131 Safari/537.36",123.26.168.66
-"February 2, 2026 9:03 pm",/andrea-strzelec-wins-grant-to-accelerate-advancements-in-zero-emissions-vehicles/feed/?withoutcomme,,44.221.66.76
-"February 2, 2026 9:01 pm",/custom-courses/success-stories/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",113.182.200.62
-"February 2, 2026 9:01 pm",/custom-courses/success-stories/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",113.184.158.57
-"February 2, 2026 8:58 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.67
-"February 2, 2026 8:58 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.199
-"February 2, 2026 8:58 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.199
-"February 2, 2026 8:58 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.66
-"February 2, 2026 8:58 pm",/donald-c-stone-and-the-american-public-works-association/,"Mozilla/5.0 (Windows Server 2012 R2 Standard; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5975.80 Safari/537.36",14.248.111.162
-"February 2, 2026 8:56 pm",/dmc/diploma/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",14.191.27.139
-"February 2, 2026 8:55 pm",/dmc/diploma/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",113.183.104.75
-"February 2, 2026 8:55 pm",/form-webinar-mse/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",14.234.192.85
-"February 2, 2026 8:55 pm",/sse,python-httpx/0.28.1,45.156.129.95
-"February 2, 2026 8:55 pm",/mcp,python-httpx/0.28.1,45.156.129.95
-"February 2, 2026 8:50 pm",/app/uploads/2018/10/Rules-Certificate-in-Water-Reclamation-Dec.-2018.pdf,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",123.26.206.11
-"February 2, 2026 8:49 pm",/app/uploads/2018/10/Rules-Certificate-in-Water-Reclamation-Dec.-2018.pdf,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",123.31.199.58
-"February 2, 2026 8:46 pm",/courses/citizencustomer-service/,"Mozilla/5.0 (Windows Server 2012 R2 Standard; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.5975.80 Safari/537.36",14.170.134.34
-"February 2, 2026 8:46 pm",/about/course-locations/,"Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36",14.172.47.46
-"February 2, 2026 8:46 pm",/courses/page/23/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",108.187.30.245
-"February 2, 2026 8:45 pm",/engineering-data-analytics-inquiry/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",14.191.177.188
-"February 2, 2026 8:45 pm",/engineering-data-analytics-inquiry/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",14.231.158.215
-"February 2, 2026 8:45 pm",/courses/iec-61850-boot-camp/,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.5672 Safari/537.36",14.184.211.7
-"February 2, 2026 8:44 pm",/marina-policy-guidelines-manual/,"Mozilla/5.0 (Windows NT 10.0; WOW64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5756.197 Safari/537.36",14.176.9.23
+,,,
 "February 2, 2026 8:44 pm",/courses/water-reclamation-emerging-trends-challenges-and-opportunities/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",14.172.251.213
 "February 2, 2026 8:43 pm",/segment/products-processes/process-management/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36",113.176.117.209
 "February 2, 2026 8:43 pm",/segment/products-processes/process-management/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36",14.244.56.140
@@ -883,6 +875,7 @@ date,source_url,user_agent,ip
 "February 2, 2026 4:37 pm",/topic/industrial/quick-response-manufacturing/wp-admin/images/about.php,,139.59.73.106
 "February 2, 2026 4:37 pm",/topic/industrial/quick-response-manufacturing/.well-known/pki-validation/cloud.php,,139.59.73.106
 "February 2, 2026 4:37 pm",/topic/industrial/quick-response-manufacturing/wp-admin/network/cloud.php,,139.59.73.106
+"February 2, 2026 4:37 pm",/app/uploads/2017/09/IMG_1926-e1506700019124.jpg,python-requests/2.31.0,72.180.4.226
 "February 2, 2026 4:37 pm",/app/uploads/2017/09/IMG_1926-e1506700019124.jpg,python-requests/2.31.0,72.180.4.226
 "February 2, 2026 4:37 pm",/topic/industrial/quick-response-manufacturing/images/cloud.php,,139.59.73.106
 "February 2, 2026 4:37 pm",/topic/industrial/quick-response-manufacturing/wp-includes/Requests/Text/admin.php,,139.59.73.106
@@ -1574,7 +1567,6 @@ date,source_url,user_agent,ip
 "February 2, 2026 9:53 am",/wrt.php,,4.241.184.25
 "February 2, 2026 9:53 am",/skin/install/default/security.php,,4.241.184.25
 "February 2, 2026 9:53 am",/h.php,,4.241.184.25
-"February 2, 2026 9:53 am",/wp-content/themes/seotheme/mar.php,,4.241.184.25
 "February 2, 2026 9:53 am",/wp-content/themes/seotheme/mar.php,,4.241.184.25
 "February 2, 2026 9:53 am",/wp.php,,4.241.184.25
 "February 2, 2026 9:53 am",/class-t.api.php,,4.241.184.25
@@ -2459,31 +2451,7 @@ date,source_url,user_agent,ip
 "February 1, 2026 1:33 pm",/yanz.php,,170.64.230.59
 "February 1, 2026 1:33 pm",/wp-admin/js/about.php,,170.64.230.59
 "February 1, 2026 1:33 pm",/users.php,,170.64.230.59
-"February 1, 2026 1:33 pm",/wp-content/plugins/revslider/includes/external/page/,,170.64.230.59
-"February 1, 2026 1:33 pm",/wp-includes/plugins.php,,170.64.230.59
-"February 1, 2026 1:33 pm",/wp-includes/themes.php,,170.64.230.59
-"February 1, 2026 1:33 pm",/wp-includes/blocks/table/int/tmpl/,,170.64.230.59
-"February 1, 2026 1:32 pm",/gawean.PhP7,,170.64.230.59
-"February 1, 2026 1:32 pm",/404.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/worm0.PhP7,,170.64.230.59
-"February 1, 2026 1:32 pm",/cjfuns.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/css/colors/blue/about.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/x.php?action=768776e296b6f286f26796e2a72607e2972647,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-blog.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-info.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/ccx/,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/ccx/,,170.64.230.59
-"February 1, 2026 1:32 pm",/ccx/,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/images/xmrlpc.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/user/xmrlpc.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/cgi-bin/xmrlpc.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-admin/network/xmrlpc.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/plugins/seoplugins/mar.php,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/plugins/seoplugins/db.php?u,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/themes/seotheme/db.php?u,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/plugins/linkpreview/db.php?u,,170.64.230.59
-"February 1, 2026 1:32 pm",/wp-content/themes/seotheme/mar.php,,170.64.230.59
+,,,
 "February 1, 2026 1:31 pm",/wp-content/themes/pridmag/db.php?u,,170.64.230.59
 "February 1, 2026 1:31 pm",/admin.php,,170.64.230.59
 "February 1, 2026 1:31 pm",/about.php,,170.64.230.59
@@ -3383,6 +3351,7 @@ date,source_url,user_agent,ip
 "January 31, 2026 9:12 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
 "January 31, 2026 9:11 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.65
 "January 31, 2026 9:11 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.67
+"January 31, 2026 9:08 pm",/wp-content/uploads/2022/01/Power-Electronics-Header.jpg,"Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",114.119.135.63
 "January 31, 2026 9:08 pm",/wp-content/uploads/2022/01/Power-Electronics-Header.jpg,"Mozilla/5.0 (Linux; Android 7.0;) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; PetalBot;+https://webmaster.petalsearch.com/site/petalbot)",114.119.135.63
 "January 31, 2026 9:02 pm",/apple-touch-icon-120x120.png,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",73.50.53.89
 "January 31, 2026 9:02 pm",/apple-touch-icon-120x120-precomposed.png,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",73.50.53.89
@@ -4408,6 +4377,7 @@ date,source_url,user_agent,ip
 "January 31, 2026 3:27 am",/courses/laboratory-design/,"Mozilla/5.0 (Linux; Android 13) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.128 Mobile Safari/537.36 (compatible; AhrefsSiteAudit/6.1; +http://ahrefs.com/robot/site-audit)",202.8.43.233
 "January 31, 2026 3:23 am",/interdisciplinary-professional-certificates/qualified-commissioning-process-provider-certificate/ex,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",157.55.39.193
 "January 31, 2026 3:12 am",/courses/polca-the-people-friendly-production-control-system-for-high-mix-low-volume-and-custom-prod,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",43.174.136.59
+"January 31, 2026 3:12 am",/courses/polca-the-people-friendly-production-control-system-for-high-mix-low-volume-and-custom-prod,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",43.174.136.59
 "January 31, 2026 3:11 am",/courses/polca-the-people-friendly-production-control-system-for-high-mix-low-volume-and-custom-prod,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.81 Safari/537.36",95.139.140.142
 "January 31, 2026 3:10 am",/online-degrees/master-of-engineering-engine-systems/epd-622-623-630-engine-design/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3602.191 Safari/537.36",112.198.166.22
 "January 31, 2026 2:56 am",/courses/page/23/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",23.231.245.176
@@ -4907,6 +4877,7 @@ date,source_url,user_agent,ip
 "January 30, 2026 1:40 pm",/ote.php?ote,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0,112.121.183.166
 "January 30, 2026 1:40 pm",/s.php,Mozilla/5.0 (Windows NT 10.0; WOW64; rv:48.0) Gecko/20100101 Firefox/48.0,112.121.183.166
 "January 30, 2026 1:38 pm",/courses/Introduction-to-Electromagnetic-Interference-and-Compatibility-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),118.232.27.152
+,,,
 "January 30, 2026 1:38 pm",/courses/Introduction-to-Electromagnetic-Interference-and-Compatibility-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),118.232.27.152
 "January 30, 2026 1:38 pm",/courses/Introduction-to-Electromagnetic-Interference-and-Compatibility-,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),118.232.27.152
 "January 30, 2026 1:36 pm",/blog-verify,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",15.204.155.25
@@ -4932,31 +4903,6 @@ date,source_url,user_agent,ip
 "January 30, 2026 1:01 pm",/wp-set.php,,74.248.24.238
 "January 30, 2026 1:01 pm",/icoxp.php,,74.248.24.238
 "January 30, 2026 1:01 pm",/ah25.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/nlvbr.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/wp-rss4.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/easy.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/sst.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/doko.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/edorxrr.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/zmia.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/8xyz.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/aboutc.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/ioxi.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/baixy.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/anj.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/sanity.php,,74.248.24.238
-"January 30, 2026 1:01 pm",/ol.php,,74.248.24.238
-"January 30, 2026 1:00 pm",/thebe.php,,74.248.24.238
-"January 30, 2026 1:00 pm",/wp-content/plugins/hellopress/wp_filemanager.php,,74.248.24.238
-"January 30, 2026 1:00 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
-"January 30, 2026 1:00 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.67
-"January 30, 2026 1:00 pm",/blog-verify,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36",15.204.155.25
-"January 30, 2026 12:53 pm",/program-specialty/ammonia-refrigeration/page/3/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",23.231.245.46
-"January 30, 2026 12:51 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
-"January 30, 2026 12:51 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.66
-"January 30, 2026 12:46 pm",/apple-touch-icon-152x152.png,"Mozilla/5.0 (iPad; CPU OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",174.163.179.148
-"January 30, 2026 12:46 pm",/apple-touch-icon-152x152-precomposed.png,"Mozilla/5.0 (iPad; CPU OS 18_6_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",174.163.179.148
-"January 30, 2026 12:45 pm",/courses/page/25/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",107.163.168.86
 "January 30, 2026 12:42 pm",/courses/page/23/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",52.167.144.136
 "January 30, 2026 12:27 pm",/courses/power-electronics-design-boot-camp-electrical-thermal-emi-reliability-and-new-devices/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.176 Safari/537.36",23.19.148.132
 "January 30, 2026 12:24 pm",/sse,python-httpx/0.28.1,45.156.129.85
@@ -6150,7 +6096,6 @@ date,source_url,user_agent,ip
 "January 28, 2026 9:12 pm",/micro-learning/docs/cross-connection-control-decision-tree,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36",43.173.176.173
 "January 28, 2026 8:48 pm",/wp-content/uploads/2023/12/UWM_Faculty-Image_dan-negrut.jpg,Mozilla/5.0 (compatible; crawler),154.36.79.11
 "January 28, 2026 8:34 pm",/courses/qrm-for-supply-chain-purchasing-professionals-reducing-lead-times-and-enhancing-responsiven,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",123.28.237.12
-"January 28, 2026 8:34 pm",/courses/qrm-for-supply-chain-purchasing-professionals-reducing-lead-times-and-enhancing-responsiven,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",123.28.237.12
 "January 28, 2026 8:27 pm",/app/uploads/2015/12/infrawaterbackflow.jpg,"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809 Safari/537.36",113.162.226.169
 "January 28, 2026 8:12 pm",/program-specialty/transportation-infrastructure/page/21/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; PerplexityBot/1.0; +https://perplexity.ai/perplexitybot)",18.97.9.97
 "January 28, 2026 8:10 pm",/courses/power-electronics-design-boot-camp-electrical-thermal-emi-reliability-and-new-devices/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",138.91.30.50
@@ -6400,7 +6345,6 @@ date,source_url,user_agent,ip
 "January 28, 2026 1:28 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
 "January 28, 2026 1:25 pm",/apple-touch-icon.png,com.apple.WebKit.Networking/20623.1.14.18.4 Network/4277.140.33.703.1 macOS/15.7.4,96.41.70.14
 "January 28, 2026 1:25 pm",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/20623.1.14.18.4 Network/4277.140.33.703.1 macOS/15.7.4,96.41.70.14
-,,,
 "January 28, 2026 1:24 pm",/apple-touch-icon.png,com.apple.WebKit.Networking/20623.1.14.18.4 Network/4277.140.33.703.1 macOS/15.7.4,96.41.70.14
 "January 28, 2026 1:24 pm",/apple-touch-icon-precomposed.png,com.apple.WebKit.Networking/20623.1.14.18.4 Network/4277.140.33.703.1 macOS/15.7.4,96.41.70.14
 "January 28, 2026 1:23 pm",/apple-touch-icon-120x120.png,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",71.200.126.119
@@ -6426,33 +6370,6 @@ date,source_url,user_agent,ip
 "January 28, 2026 1:10 pm",/main.php,,20.27.221.200
 "January 28, 2026 1:10 pm",/wp.php,,20.27.221.200
 "January 28, 2026 1:10 pm",/temp.php/wp-update.php,,20.27.221.200
-,,,
-,,,
-"January 28, 2026 1:09 pm",/wp-content/plugins/pwnd/as.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/init.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-includes/ID3/about.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-content/admin.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-admin/maint/about.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/ol.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/bless14.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-good.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/radio.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/blurbs18.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/ar.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/admin.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/shoyo.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/bipas.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/class-t.api.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/as.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/lock360.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-content/themes/about.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/update/f35.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/pp.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/f35.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/gec.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/wp-admin/css/colors/midnight/about.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/class.php,,20.27.221.200
-"January 28, 2026 1:09 pm",/xxxx.php,,20.27.221.200
 "January 28, 2026 1:10 pm",/wp-configs.php,,20.27.221.200
 "January 28, 2026 1:10 pm",/admins.php,,20.27.221.200
 "January 28, 2026 1:10 pm",/a.php,,20.27.221.200
@@ -6478,7 +6395,31 @@ date,source_url,user_agent,ip
 "January 28, 2026 1:09 pm",/bless.php,,20.27.221.200
 "January 28, 2026 1:09 pm",/k.php,,20.27.221.200
 "January 28, 2026 1:09 pm",/filesss.php,,20.27.221.200
-,,,
+"January 28, 2026 1:09 pm",/wp-content/plugins/pwnd/as.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/init.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-includes/ID3/about.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-content/admin.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-admin/maint/about.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/ol.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/bless14.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-good.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/radio.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/blurbs18.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/ar.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/admin.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/shoyo.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/bipas.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/class-t.api.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/as.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/lock360.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-content/themes/about.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/update/f35.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/pp.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/f35.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/gec.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/wp-admin/css/colors/midnight/about.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/class.php,,20.27.221.200
+"January 28, 2026 1:09 pm",/xxxx.php,,20.27.221.200
 "January 28, 2026 1:09 pm",/x.php,,20.27.221.200
 "January 28, 2026 1:09 pm",/wen.php,,20.27.221.200
 "January 28, 2026 1:09 pm",/alfa.php,,20.27.221.200
@@ -6504,6 +6445,106 @@ date,source_url,user_agent,ip
 "January 28, 2026 1:08 pm",/adminfuns.php,,20.27.221.200
 "January 28, 2026 1:08 pm",/abcd.php,,20.27.221.200
 "January 28, 2026 1:08 pm",/222.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/goods.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/assets/css/,,20.27.221.200
+"January 28, 2026 1:08 pm",/ss1.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/about.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/info.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/wp-admin/images/wp-conflg.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/d9.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/la.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/wp-admin/images/commentv.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/about.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/xpwer1.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/ioxi.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/la.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/8xyz.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/3r.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/lala.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/wp-mt.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/bgymj.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/f355.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/wp-content/shell.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/xvde.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/wp-content/uploads/1.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/ccs.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/ddd.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/thebe.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/z9v.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/1a.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/413.php,,20.27.221.200
+"January 28, 2026 1:08 pm",/x7.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/wwx.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/it.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/styll.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/ph33w.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/reze.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/R.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/aa2.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/jsond.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/X5fCS.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/save.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/zs.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/tourpa.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/89.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/xwx1.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/error.php,,20.27.221.200
+"January 28, 2026 1:07 pm",/wp-content/plugins/hellopress/wp_filemanager.php,,20.27.221.200
+"January 28, 2026 12:53 pm",/about/news/page/8/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36",43.173.177.214
+"January 28, 2026 12:53 pm",/about/news/page/8/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",43.173.179.73
+"January 28, 2026 12:49 pm",/courses/page/25/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",192.229.79.235
+"January 28, 2026 12:40 pm",/sitemaps.xml,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",52.167.144.141
+"January 28, 2026 12:35 pm",/apple-touch-icon-120x120.png,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",96.248.73.99
+"January 28, 2026 12:35 pm",/apple-touch-icon-120x120-precomposed.png,"Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Safari",96.248.73.99
+"January 28, 2026 12:35 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2,96.248.73.99
+"January 28, 2026 12:35 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2,96.248.73.99
+"January 28, 2026 12:29 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
+"January 28, 2026 12:29 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.67
+"January 28, 2026 12:29 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.198
+"January 28, 2026 12:29 pm",/.well-known/assetlinks.json,GoogleAssociationService,74.125.210.65
+"January 28, 2026 12:24 pm",/app/uploads/2015/08/coursesearch1.jpg,Safari/20620.2.4.11.5 CFNetwork/3826.400.120 Darwin/24.3.0,162.230.94.239
+"January 28, 2026 12:24 pm",/app/uploads/2016/02/jordan-ben-2x3-72.png,Safari/20620.2.4.11.5 CFNetwork/3826.400.120 Darwin/24.3.0,162.230.94.239
+"January 28, 2026 12:17 pm",/SiteTemplates/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/sdada/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/sadasdsa/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/sdasdasTelerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/DialogHandler/adminHtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/DesktopModules/Admin/HtmlEditorProviders/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/sdadaProviders/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:17 pm",/DesktopModules/Admin/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/DesktopModule/UIQuestionControls/UIAskQuestion/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/Modules/CMS/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/Admin/ServerSide/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/DesktopModules/TNComments/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/AsiCommon/Controls/ContentManagement/ContentDesigner/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/common/admin/Calendar/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/courses/using-winslamm-meeting-urban-stormwater-management-goals/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",207.46.13.168
+"January 28, 2026 12:16 pm",/cms/portlets/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/dashboard/UserControl/CMS/Page/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/common/admin/PhotoGallery2/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/_controls/responsive/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/Components/General/Admin/UserControl/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/common/admin/Jobs2/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:16 pm",/DesktopModules/dnnWerk.RadEditorProvider/DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:15 pm",/DesktopModules/Admin/RadEditorProvider/DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:15 pm",/Providers/HtmlEditorProviders/Telerik/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:15 pm",/DesktopModules/TelerikWebUI/RadEditorProvider/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:15 pm",/App_Master/Telerik.Web.UI.DialogHandler.aspx,Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0,182.48.91.199
+"January 28, 2026 12:15 pm",/courses/page/22/,"Mozilla/5.0 (Linux; Android 7.1.1; OPPO R9sk Build/NMF26F; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/62.0.3771.81 Mobile Safari/537.36 LieBaoFast/5.12.3",41.223.73.254
+"January 28, 2026 12:15 pm",/courses/page/25/,"Mozilla/5.0 (Linux; Android 9; MI 9 Build/PKQ1.181121.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/93.0.3295.77 Mobile Safari/537.36 LieBaoFast/5.10.1",85.204.122.175
+"January 28, 2026 12:15 pm",/wp-2019.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/wp-includes/ID3/about.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/online-graduate-programs/masters-degrees/polymer-engineering/how-to-apply-pe/,"Mozilla/5.0 (Linux; Android 9; V1924A Build/PKQ1.190714.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.4286.67 Mobile Safari/537.36 VivoBrowser/6.7.12.0",186.190.71.31
+"January 28, 2026 12:14 pm",/wp-content/shell20211028.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/online-degree/power-conversion-and-control-certificate/,"Mozilla/5.0 (Linux; Android 9; MI 9 Build/PKQ1.181121.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/48.0.3617.144 Mobile Safari/537.36 AWP/2.0 SogouMSE,SogouMobileBrowser/5.22.4",109.68.239.24
+"January 28, 2026 12:14 pm",/wp-includes/wp-class.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/shell20211028.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/wp-includes/Text/about.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/wp-includes/Requests/Auth/images.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/wp-includes/Requests/Transport/post.Php,,139.59.73.106
+"January 28, 2026 12:14 pm",/wp-includes/css/dist/editor/radio.php,,139.59.73.106
+"January 28, 2026 12:14 pm",/upload/2021_02_08/config.inc.php,,139.59.73.106
 "January 28, 2026 12:14 pm",/wp-includes/random_compat/bala.php,,139.59.73.106
 "January 28, 2026 12:14 pm",/wp-admin/plugin.php,,139.59.73.106
 "January 28, 2026 12:14 pm",/images/resumes/by.php,,139.59.73.106
@@ -6979,7 +7020,6 @@ date,source_url,user_agent,ip
 "January 28, 2026 4:51 am",/app/uploads/2017/09/2017-05-13_11-15-55_138-e1506699700165.jpeg,python-requests/2.32.4,193.50.97.177
 "January 28, 2026 4:50 am",/online-degree/electrical-engineering-power-engineering/?action=register,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",34.40.169.197
 "January 28, 2026 4:50 am",/online-degree/electrical-engineering-power-engineering/?route=checkout/checkout,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",34.40.169.197
-,,,
 "January 28, 2026 4:50 am",/online-degree/electrical-engineering-power-engineering/?route=account/login,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",34.40.169.197
 "January 28, 2026 4:50 am",/online-degree/electrical-engineering-power-engineering/?route=account/register,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",34.40.169.197
 "January 28, 2026 4:50 am",/online-degree/electrical-engineering-power-engineering/?route=checkout/cart,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",34.40.169.197
@@ -7030,6 +7070,31 @@ date,source_url,user_agent,ip
 "January 28, 2026 12:54 am",/admin/fckeditor/editor/filemanager/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
 "January 28, 2026 12:54 am",/admin/images/slider/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
 "January 28, 2026 12:54 am",/php/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/plugins/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/images/stories/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/Assets/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/include/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/admin/editor/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/files/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/shop/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/template/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/system/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/Site/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/modules/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/local/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/vendor/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/assets/images/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/upload/image/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/vendor/phpunit/phpunit/src/Util/PHP/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/assets/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/images/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/admin/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/Admin/uploads/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/admin/uploads/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/upload/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/uploads/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/.well-knownold/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
+"January 28, 2026 12:54 am",/ALFA_DATA/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
 "January 28, 2026 12:54 am",/wp-includes/random_compat/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
 "January 28, 2026 12:53 am",/wp-includes/Text/Diff/Engine/Engine/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
 "January 28, 2026 12:53 am",/wp-includes/Requests/Auth/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",40.115.138.121
@@ -7080,7 +7145,6 @@ date,source_url,user_agent,ip
 "January 27, 2026 10:35 pm",/courses/page/25/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36",192.229.79.212
 "January 27, 2026 10:35 pm",/courses/page/23/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",23.231.203.211
 "January 27, 2026 10:32 pm",/courses/financial-acumen-for-the-engineer/,Mozilla/5.0 (compatible; DotBot/1.2; +https://opensiteexplorer.org/dotbot; help@moz.com),216.244.66.244
-,,,
 "January 27, 2026 10:25 pm",/app/uploads/2017/09/IMG_1926-e1506700019124.jpg,Mozilla/5.0,34.16.160.163
 "January 27, 2026 9:49 pm",/courses/qrm-for-supply-chain-purchasing-professionals-reducing-lead-times-and-enhancing-responsiven,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",171.225.208.136
 "January 27, 2026 9:31 pm",/courses/page/25/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",108.187.29.60
@@ -7106,6 +7170,31 @@ date,source_url,user_agent,ip
 "January 27, 2026 7:58 pm",/courses/powder-and-bulk-mixing-processes-applications-and-equipment/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",40.77.167.14
 "January 27, 2026 7:42 pm",/topic/electric-power/power-electronics-machines-and-drives/?utm_source=Charged&utm_medium=banner&ut,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",66.249.77.38
 "January 27, 2026 7:42 pm",/courses/hybrid-and-electric-vehicle-design-boot-camp/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",40.77.167.116
+"January 27, 2026 7:42 pm",/topic/electric-power/power-electronics-machines-and-drives/?utm_source=Charged&utm_medium=banner&ut,"Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.7499.192 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)",66.249.77.37
+"January 27, 2026 7:41 pm",/courses/hybrid-and-electric-vehicle-design-boot-camp/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",40.77.167.116
+"January 27, 2026 7:41 pm",/courses/hybrid-and-electric-vehicle-design-boot-camp/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0",135.225.181.160
+"January 27, 2026 7:41 pm",/courses/page/23/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36",192.238.158.219
+"January 27, 2026 7:41 pm",/courses/page/25/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",23.231.245.189
+"January 27, 2026 7:35 pm",/courses/hybrid-and-electric-vehicle-design-boot-camp/?utm_source=wempec&utm_medium=website&utm_camp,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0",10.140.107.104
+"January 27, 2026 7:35 pm",/online-degrees/master-of-engineering-engine-systems/epd-627-perspectives-on-engine-modeling/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",157.55.39.196
+"January 27, 2026 7:25 pm",/online-degrees/master-of-engineering-engine-systems/epd-642-thermal-systems-engineering/?gtm_latenc,GoogleOther,66.249.77.37
+"January 27, 2026 7:07 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:07 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:06 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:06 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:06 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:06 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2.1,75.100.200.168
+"January 27, 2026 7:06 pm",/uw-madison-to-offer-electric-hybrid-vehicle-bootcamp-as-electric-car-industry-revs-up/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36",120.53.221.89
+"January 27, 2026 6:55 pm",/segment/energy/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36",113.179.140.33
+"January 27, 2026 6:50 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 CFNetwork/3860.300.31 Darwin/25.2.0,66.41.93.141
+"January 27, 2026 6:50 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 CFNetwork/3860.300.31 Darwin/25.2.0,66.41.93.141
+"January 27, 2026 6:43 pm",/courses/page/25/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",107.163.168.243
+"January 27, 2026 6:42 pm",/segment/energy/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 LinkCheck by Siteimprove.com",52.7.141.1
+"January 27, 2026 6:42 pm",/segment/energy/,Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.1; Trident/6.0) LinkCheck by Siteimprove.com,52.7.141.1
+"January 27, 2026 6:42 pm",/segment/energy/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36",52.7.141.1
+"January 27, 2026 6:38 pm",/courses/power-electronics-design-boot-camp-electrical-thermal-emi-reliability-and-new-devices/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko); compatible; ChatGPT-User/1.0; +https://openai.com/bot",52.187.246.128
+"January 27, 2026 6:34 pm",/ads.txt,Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html),66.249.77.39
+"January 27, 2026 6:33 pm",/micro-learning/courses/wisconsin-cross-connection-control-tester-refresher-course,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.5112.79 Safari/537.36",123.20.33.128
 "January 27, 2026 6:27 pm",/apple-touch-icon.png,NetworkingExtension/8622.2.11.10.8 Network/5569.42.2 iOS/26.1,207.104.43.134
 "January 27, 2026 6:27 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8622.2.11.10.8 Network/5569.42.2 iOS/26.1,207.104.43.134
 "January 27, 2026 6:10 pm",/old/,"Mozilla/5.0 (Linux; Android 12; TECNO CK6n) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.6422.50 Mobile Safari/537.36",34.106.139.114
@@ -7114,6 +7203,7 @@ date,source_url,user_agent,ip
 "January 27, 2026 6:10 pm",/wp/,"Mozilla/5.0 (Linux; Android 10; vivo 1904) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.5938.60 Mobile Safari/537.36",34.106.139.114
 "January 27, 2026 6:10 pm",/blog/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 14_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15",34.106.139.114
 "January 27, 2026 6:09 pm",/courses/chilled-water-plant-design/?instance=all,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; ClaudeBot/1.0; +claudebot@anthropic.com)",216.73.216.35
+,,,
 "January 27, 2026 6:08 pm",/ss.php?f_c=1,"Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/60.0.3112.107 Mobile Safari/537.36",45.138.16.159
 "January 27, 2026 5:57 pm",/courses/power-electronics-design-boot-camp-electrical-thermal-emi-reliability-and-new-devices/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",157.55.39.58
 "January 27, 2026 5:56 pm",/courses/power-electronics-design-boot-camp-electrical-thermal-emi-reliability-and-new-devices/,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",157.55.39.58
@@ -7139,31 +7229,6 @@ date,source_url,user_agent,ip
 "January 27, 2026 4:40 pm",/app/uploads/2015/08/online-masters-manufacturing-systems-engineering.jpg,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",52.167.144.158
 "January 27, 2026 4:34 pm",/courses/page/26/?gad_source=1&gad_campaignid=22747411888,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",52.167.144.19
 "January 27, 2026 4:32 pm",/wp-includes/assets/autoload_classmap.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:32 pm",/wp-content/themes/twentythirteen/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:32 pm",/wp-content/themes/admin.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-content/plugins/wp-diambar/includes/loadme.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-content/plugins/classic-editor/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-content/plugins/admin.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-content/ai1wm-backups/about.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-admin/radio.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-admin/includes/rk2.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-admin/images/admin.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-good.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp-editor.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/wp.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/autoload_classmap.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/classwithtostring.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/server.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/edit.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/jp.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/403.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/php.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/admin.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/about.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/ioxi-o.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/info.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/goods.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
-"January 27, 2026 4:31 pm",/file.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
 "January 27, 2026 4:31 pm",/bless.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
 "January 27, 2026 4:31 pm",/akcc.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
 "January 27, 2026 4:31 pm",/adminfuns.php,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",20.24.64.241
@@ -7814,31 +7879,7 @@ date,source_url,user_agent,ip
 "January 26, 2026 9:25 pm",/dGhlLWhpc3,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.7444.163 Safari/537.36",72.153.230.140
 "January 26, 2026 9:22 pm",/micro-learning/docs/cross-connection-control-decision-tree,"Mozilla/5.0 (Macintosh; Intel Mac OS X 13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Safari/184.1",101.47.133.32
 "January 26, 2026 9:20 pm",/meta.json?,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0",43.161.250.247
-"January 26, 2026 9:14 pm",/apple-touch-icon.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2,147.219.179.143
-"January 26, 2026 9:14 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8623.1.14.10.9 Network/5569.60.39.0.3 iOS/26.2,147.219.179.143
-"January 26, 2026 9:11 pm",/online-graduate-programs/masters-degrees/engineering-management/-online-masters-degree-program/epd-,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",207.46.13.17
-"January 26, 2026 9:11 pm",/app/uploads/2017/12/EFI-Oil-Guard.png,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",96.40.231.62
-"January 26, 2026 9:08 pm","/courses/Industrial-Data-Analytics-Models,-Forecasts,-and-AI-Tools","Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",101.47.135.80
-"January 26, 2026 9:07 pm",/apple-touch-icon.png,NetworkingExtension/8622.2.11.10.8 Network/5569.42.2 iOS/26.1,24.126.15.73
-"January 26, 2026 9:07 pm",/apple-touch-icon-precomposed.png,NetworkingExtension/8622.2.11.10.8 Network/5569.42.2 iOS/26.1,24.126.15.73
-"January 26, 2026 9:07 pm",/program-specialty/building-codes-and-standards/page/2/,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",43.173.180.63
-"January 26, 2026 9:00 pm",/asset-management-is-a-team-sport/,"Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/180.1",101.47.133.177
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/ALFA_DATA/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:58 pm",/wp-content/upgrade/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:57 pm",/wp-content/upgrade/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
+,,,
 "January 26, 2026 8:57 pm",/wp-content/upgrade/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:57 pm",/wp-content/upgrade/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:57 pm",/wp-content/themes/ALFA_DATA/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
@@ -7889,31 +7930,7 @@ date,source_url,user_agent,ip
 "January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/ALFA_DATA/alfacgiapi/wp-content/uploads/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:56 pm",/wp-content/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/wp-content/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/bash.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/ALFA_DATA/alfacgiapi/perl.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
-"January 26, 2026 8:55 pm",/assets/uploads/alfacgiapi/404.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
+,,,
 "January 26, 2026 8:55 pm",/assets/uploads/alfacgiapi/radio.php?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:55 pm",/assets/uploads/alfacgiapi/?bx=0e215962017,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
 "January 26, 2026 8:55 pm",/assets/uploads/alfacgiapi/py.alfa,"Mozilla/5.0 (Linux; Android 11; Redmi Note 9 Pro Build/RKQ1.200826.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/90.0.4430.210 Mobile Safari/537.36",157.245.66.141
@@ -8306,3 +8323,11 @@ date,source_url,user_agent,ip
 "January 26, 2026 12:59 pm",/courses/page/25/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36",108.187.26.148
 "January 26, 2026 12:59 pm",/courses/page/23/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",108.187.29.27
 "January 26, 2026 12:38 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
+"January 26, 2026 12:38 pm",/.well-known/assetlinks.json,GoogleAssociationService,66.249.84.197
+"January 26, 2026 12:29 pm",/the-history-and-evolution-of-manufacturing/&style=mla,"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",34.6.48.235
+"January 26, 2026 12:27 pm",/Courses/Course_Choice.lasso?myCourseGroup=RA00207&myCoursePast=Water2525252520Storage2525252520Tank,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",207.46.13.7
+"January 26, 2026 12:25 pm",/courses/how-to-design-shop-floor-cells-to-reduce-lead-times-for-custom-products/?print&instance=pas,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",43.173.179.40
+"January 26, 2026 12:25 pm",/courses/how-to-design-shop-floor-cells-to-reduce-lead-times-for-custom-products/?print&instance=pas,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36",43.173.175.147
+"January 26, 2026 12:17 pm",/api/v1/courses/national-electrical-safety-code/tabs,"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36",98.237.119.166
+"January 26, 2026 11:46 am",/courses/page/23/,"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36",192.229.79.163
+"January 26, 2026 11:46 am",/online-graduate-programs/masters-degrees/engineering-management/mem-virtual-summer-residency-2020/c,"Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm) Chrome/116.0.1938.76 Safari/537.36",40.77.167.44
